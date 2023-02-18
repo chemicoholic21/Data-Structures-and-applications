@@ -1,4 +1,4 @@
-arrays
+arrays\n
 search in sparse matrix
 recursion
 stacks
